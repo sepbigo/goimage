@@ -9,7 +9,7 @@
     },
     "site": {
         "name": "春田花花公益图床",
-        "maxFileSize": 100,
+        "maxFileSize": 250,
         "port": 28080,
         "host": "127.0.0.1"
     }
